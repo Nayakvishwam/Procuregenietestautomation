@@ -1,0 +1,13 @@
+createdBy,createdOn,activeStatus,tenderId,tenderNo,tenderBrief,tenderDescription,eventStatus,mapBidderType,eventrequestType,evaluationType,biddingType,evaluationProcess,biddingAccess,biddingVarient,contractType,bidWithdrawal,prebidMeeting,projectDuration,eventValue,workflowRequired,departmentId,subdepartmentId,unspscCatgory,submissionEnddate,openingDate,clientId,officerId,currency,subModuleId,isDelegated,itemSelectionRequired
+3,2024-05-17T07:23:12.000Z,1,1101,RRwUMK0,Give full details of it,"<p>Description</p>
+",0,1.0,0,1,1,2,1,1,1,1,0,12,1715930578123,0,158,0,Boards,2024-05-18T06:30:00.000Z,2024-05-18T06:31:00.000Z,1,1,2,7,0,0
+3,2024-05-17T07:24:20.000Z,1,1102,lqOncG6,Give full details of it,"<p>Description</p>
+",0,,0,1,1,1,2,2,1,0,0,12,1715930646123,0,158,0,Boards,2024-05-18T06:30:00.000Z,2024-05-18T06:31:00.000Z,1,1,2,8,0,0
+3,2024-05-17T07:25:28.000Z,1,1103,YutU0UZ,Give full details of it,"<p>Description</p>
+",0,0.0,0,2,1,1,1,2,1,1,0,12,1715930712123,0,158,0,Boards,2024-05-18T06:30:00.000Z,2024-05-18T06:31:00.000Z,1,1,2,8,0,1
+3,2024-05-17T07:26:36.000Z,1,1104,wywWUOs,Give full details of it,"<p>Description</p>
+",0,2.0,0,2,1,1,2,1,1,1,0,12,1715930781123,0,158,0,Boards,2024-05-18T06:30:00.000Z,2024-05-18T06:31:00.000Z,1,1,2,8,0,1
+3,2024-05-17T07:27:44.000Z,1,1105,UM5UDRN,Give full details of it,"<p>Description</p>
+",0,0.0,0,3,1,1,1,2,1,1,0,12,1715930848123,0,158,0,Boards,2024-05-18T06:30:00.000Z,2024-05-18T06:31:00.000Z,1,1,2,8,0,1
+3,2024-05-17T07:28:52.000Z,1,1106,qzk8Etn,Give full details of it,"<p>Description</p>
+",0,3.0,0,3,1,1,2,1,1,1,0,12,1715930916123,0,158,0,Boards,2024-05-18T06:30:00.000Z,2024-05-18T06:31:00.000Z,1,1,2,8,0,1
